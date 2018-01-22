@@ -1,0 +1,19 @@
+body{
+  font-family: "Open Sans";
+  background-color:#eeeeee
+}
+
+.cover{
+  position: relative;
+    border: 15px solid white;
+    background-color: white;
+    overflow: hidden;
+}
+
+.navbar{
+  background-color: #eb776a
+}
+
+h1, h2, h3{
+  color:#eb776a
+}
